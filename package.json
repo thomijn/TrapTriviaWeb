@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/thomijn/TrapTriviaWebsite",
-  "name": "socket-io-client",
+  "homepage": "https://github.com/thomijn/TrapTriviaWeb",
+  "name": "jv",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
