@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/thomijn/TrapTriviaWeb/precache-manifest.2c1fe4d7758f6039fcffdde7134e6447.js"
+  "/TrapTriviaWeb/precache-manifest.6882b13facdccbd51099631611ddef2d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/thomijn/TrapTriviaWeb/index.html", {
+workbox.routing.registerNavigationRoute("/TrapTriviaWeb/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
